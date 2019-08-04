@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gimbab", "gimbab\gimbab.csproj", "{D54EE6D6-F0AB-49DB-B5BA-36578FC09335}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D54EE6D6-F0AB-49DB-B5BA-36578FC09335}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D54EE6D6-F0AB-49DB-B5BA-36578FC09335}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D54EE6D6-F0AB-49DB-B5BA-36578FC09335}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D54EE6D6-F0AB-49DB-B5BA-36578FC09335}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D339ACBC-FF78-4FCD-BAC6-3F8BF34CAE28}
+	EndGlobalSection
+EndGlobal
